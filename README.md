@@ -13,6 +13,9 @@
   * Node.js
   * Express.js
   * Postgresql
+- Planning:
+  * Figma
+  * Jira
 
 **Run the backend (server) first before starting the frontend in order for queries to work!**  
 **More information on how to start the backend and frontend can be found in their respective folder.**

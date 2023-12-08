@@ -1,14 +1,18 @@
 # School Project
-- Team of five
+- Website design for ShareTea that incorporated the point-of-sales system for cashiers and offers interfaces for cashiers, managers, and customers.
+- Incorporated various accessibility elements along with convenient features that increases productivity of the business.
+- Collaborated with four other groupmates using Jira to track progress and task delegation
 
 ---
 
-Website design for ShareTea that incorporated the point-of-sales system for cashiers and offers interfaces for cashiers, managers, and customers. 
-Incorporated various accessibility elements along with convenient features that increases productivity of the business.
-
 ## Tools Used
-- Front-end: React.js, Axios
-- Back-end: Node.js, Express.js, Postgresql
+- Front-end
+  * React.js
+  * Axios
+- Back-end:
+  * Node.js
+  * Express.js
+  * Postgresql
 
 **Run the backend (server) first before starting the frontend in order for queries to work!**  
 **More information on how to start the backend and frontend can be found in their respective folder.**
